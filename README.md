@@ -1,1 +1,1 @@
-# markdown-formater
+# markdown-formatter
