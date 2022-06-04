@@ -2,16 +2,13 @@
 
 #
 #
-# Parsedown Extra
-# https://github.com/erusev/parsedown-extra
+# Markdown
+#"https://github.com/rasif-sahl/markdown-formater
 #
-# (c) Emanuil Rusev
-# http://erusev.com
+# rasif-sahl
 #
-# For the full license information, view the LICENSE file that was distributed
-# with this source code.
 #
 #
 
-class ParsedownExtra extends Parsedown
+class Markdown
 {}
